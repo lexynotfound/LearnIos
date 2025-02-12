@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "beautiful-ahri-coven-lol-art-hd-wallpaper-uhdpaper.com-391@1@i.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "beautiful-ahri-coven-lol-art-hd-wallpaper-uhdpaper.com-391@1@i 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "beautiful-ahri-coven-lol-art-hd-wallpaper-uhdpaper.com-391@1@i 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
